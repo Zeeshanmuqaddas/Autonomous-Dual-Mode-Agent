@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Dual-Mode Agent",
+  "description": "An AI agent that switches between Business Automation and Study Coach modes to intelligently assist users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
